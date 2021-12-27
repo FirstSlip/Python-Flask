@@ -34,4 +34,9 @@ cvs=get_cv(), work=get_work(), salary=get_salary(),
 )
 </code><br>
 и добавил функции:<br>
-Результат:<br>
+<img src="./code.jpg"><br>
+<b>Результат:<b><br>
+<img src="./res.jpg"><br>
+<img src="./res2.jpg"><br><br>
+<b>Созданная база данных:<b><br>
+<img src="./bd.jpg"><br>
